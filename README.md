@@ -1,5 +1,5 @@
 Sobre mim: 
 
-- Cursando Ciências da Computação (UNEMAT - Campus de Cáceres)
-- Aprendendo Python e C
+- Bacharel em Ciência da Computação
+- Skills em Javascript, Python, C#
 - E-Mail para contato pabloar930@gmail.com
